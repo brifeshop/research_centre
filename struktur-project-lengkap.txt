@@ -1,0 +1,40 @@
+=================================================
+ STRUKTUR LENGKAP PROJECT (FOLDER & FILE)
+=================================================
+
+ project-root/
+├── 📁 app/
+│   ├── 📁 constants/
+│   │   └── 📁 translations/
+│   │       ├── 📄 en.ts
+│   │       ├── 📄 id.ts
+│   │       └── 📄 index.ts
+│   ├── 📁 context/
+│   │   └── 📄 LanguageContext.tsx
+│   ├── 📁 elektronika-iot/
+│   │   └── 📄 page.tsx
+│   ├── 📄 favicon.ico
+│   ├── 📄 globals.css
+│   ├── 📄 layout.tsx
+│   └── 📄 page.tsx
+├── 📁 components/
+│   ├── 📄 LanguageToggle.tsx
+│   └── 📄 Navbar.tsx
+├── 📁 public/
+│   ├── 📄 file.svg
+│   ├── 📄 globe.svg
+│   ├── 📄 next.svg
+│   ├── 📄 vercel.svg
+│   └── 📄 window.svg
+├── 📄 .gitignore
+├── 📄 AGENTS.md
+├── 📄 CLAUDE.md
+├── 📄 daftar-folder.txt
+├── 📄 eslint.config.mjs
+├── 📄 list-folders.js
+├── 📄 next-env.d.ts
+├── 📄 next.config.ts
+├── 📄 package.json
+├── 📄 postcss.config.mjs
+├── 📄 README.md
+└── 📄 tsconfig.json
